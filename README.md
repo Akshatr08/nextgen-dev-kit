@@ -63,8 +63,6 @@ npm run dev
 Make sure to add your Supabase keys to .env:
 
 env
-Copy
-Edit
 VITE_SUPABASE_URL=your-supabase-url
 VITE_SUPABASE_ANON_KEY=your-anon-key
 ✅ .env is already ignored in .gitignore for safety.
